@@ -1,6 +1,6 @@
 // Toy Reid
 // Lab 7 - jsh3
-/* jsh3 is a barebones shell that reads lines from standard input.
+/* jsh is a barebones shell that reads lines from standard input.
    If they are non-blank, jsh3 attempts to execute them. File redirection
    with <, >, and >> is supported. Piping with | is also supported. */
 
